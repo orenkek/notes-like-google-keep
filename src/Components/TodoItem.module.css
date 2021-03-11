@@ -1,0 +1,14 @@
+.TodoItem {
+  display: flex;
+}
+
+.TodoItem span {
+  width: 100%;
+}
+
+.editField {
+  width: 100%;
+  overflow-wrap: break-word;
+  word-break: break-all;
+  text-align: center;
+}

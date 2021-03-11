@@ -1,0 +1,15 @@
+.TodoList {
+  display: grid;
+  width: 300px;
+  min-height: auto;
+  border: 1px solid black;
+  padding: 5px;
+  margin: 5px auto;
+}
+
+.TodoList ul {
+  list-style-type: none;
+}
+
+.TodoList button {
+}
